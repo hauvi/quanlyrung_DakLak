@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Hanken Grotesk';
+    src: url('../fonts/HankenGrotesk/static/HankenGrotesk-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+/* Thêm các font-weight và font-style khác nếu cần */

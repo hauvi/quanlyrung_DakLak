@@ -1,0 +1,2 @@
+@props(['active' => false])
+<a class="{{ $active ? 'border-b-4 border-red-400' : 'hover:border-b-4 hover:border-red-400' }} font-bold transition-color duration-300" aria-current="{{ $active ? 'page': 'flase' }}" {{ $attributes }}>{{ $slot }}</a>

@@ -1,0 +1,1 @@
+<a href="{{ $href ?? '#' }}" class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-black rounded-lg hover:text-black hover:bg-white hover:shadow transition ease-in-out duration-150">{{ $slot }}</a>
